@@ -5,7 +5,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,r,vscode,html" />
 </p>
 
 <hr>
