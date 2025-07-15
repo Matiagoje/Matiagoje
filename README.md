@@ -1,9 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Matiagoje/Matiagoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A data enthusiast who is in search to answer her inner toddler's favourite quetion, "why?".
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,r,vscode" />
+</p>
+
+<!--
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div> 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
