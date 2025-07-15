@@ -7,7 +7,16 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,vscode" />
 </p>
+<hr>
+<br>
 
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=matiagoje&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Matiagoje's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=matiagoje&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Matiagoje's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=matiagoje&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Matiagoje's Most Used Languages" />
+</div>
+
+<hr>
 <!--
 <div align="center"> 
   <p>Visitor count</p>
