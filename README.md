@@ -7,8 +7,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,vscode" />
 </p>
+
 <hr>
-<br>
+
+## ⚡️ Stats
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=matiagoje&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Matiagoje's GitHub Stats" />
