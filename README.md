@@ -2,9 +2,12 @@
 <h3 align="center">A data enthusiast who is in search to answer her inner toddler's favourite question, "why?".</h3>
 
 
-- 🌱 I’m currently learning **Advanced Linear Regression & Data Visualisation**
+Check out:
+- [Statistical Thinking Analysis](https://github.com/Matiagoje/statistical_thinking)
+- [Cosmetics Pop-up Events Google Sheet Analysis](https://github.com/Matiagoje/Cosmetics-Pop-Up-Events)
+  
 
-- 📫 How to reach me **frangelinematiagoje@gmail.com**
+  📫 How to reach me **frangelinematiagoje@gmail.com**
 <hr>
 
 ### 🛠️ Languages and Tools
